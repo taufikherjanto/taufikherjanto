@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Taufik
+### Hi there 👋 I'm Taufik
 
 Here are some ideas to get you started:
 

@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on PT. Daya Cipta Optima
+- 🔭 I’m currently working on PT. Daya Cipta Optima as Application & Technical Support
 - 🌱 I’m currently learning Web Development & Data Analytics.
 - 💬 Ask me about anything
 - 📫 How to reach me: <a href="mailto:taufik.herjanto@live.com">Email me!</a>

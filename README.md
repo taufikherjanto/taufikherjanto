@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on DCOptima as Application & Technical Support
-- 🌱 I’m currently learning Web Development & Data Analytics.
+- 🌱 I’m currently learning Web Development with Golang & Data Analytics.
 - 💬 Ask me about anything
 - 📫 How to reach me: <a href="mailto:taufik.herjanto@live.com">Email me!</a>
  

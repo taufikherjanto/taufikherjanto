@@ -9,7 +9,7 @@ Here are some ideas to get you started:
  
 ### <strong>Let's connect!</strong>
 <a href="https://twitter.com/taufikherjanto">
-  <img align="left" alt="Taufik Herjanto's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+  <img align="left" alt="Taufik Herjanto's Twitter" width="20px" src="https://simpleicons.vercel.app/x/000" />
 </a>
 <a href="https://www.instagram.com/taufikherjanto/">
   <img align="left" alt="Taufik Herjanto's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
